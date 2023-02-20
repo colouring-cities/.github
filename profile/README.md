@@ -2,6 +2,8 @@
 WIP - Information about the CCRP to go here.  
 TODO - Links to relevant projects/documentation.
 
+Note: This file is Public
+
 ## Organisation Structure
 - [colouring-core](https://github.com/colouring-cities/colouring-core) is the repository for the new Colouring Cities Core Platform. All new Colouring Cities projects should be forked from this repo. (This is the former 'Colouring London' prototype repository.  
   
