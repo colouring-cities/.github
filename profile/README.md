@@ -1,10 +1,12 @@
 # Colouring Cities Research Programme
-WIP - Information about the CCRP to go here.  
-TODO - Links to relevant projects/documentation.
-
-Note: This file is Public
+The Colouring Cities Research Programme (CCRP) develops open code for open, reproducible platforms that collect, verify and visualise data on national building stocks. 
+You can learn more about the CCPR on our main website: https://colouringcities.org/
 
 ## Organisation Structure
-- [colouring-core](https://github.com/colouring-cities/colouring-core) is the repository for the new Colouring Cities Core Platform. All new Colouring Cities projects should be forked from this repo. This is the former 'Colouring London' prototype repository.  
+The key repositories are:
+- [colouring-core](https://github.com/colouring-cities/colouring-core) is the home of the new Colouring Cities Core Platform. All new Colouring Cities projects should be forked from this repo. This is the former 'Colouring London' prototype repository.  
   
-- [colouring-london](https://github.com/colouring-cities/colouring-london) is a new repository for the Colouring London project, now forked from the Core Platform. Development will continue as we evolve this into the Colouring Britain project.
+- [colouring-britain](https://github.com/colouring-cities/colouring-britain) is the Colouring Britain project, which is forked from the Core Platform. This should be considered the template for all other Colouring Cities platforms.
+
+For more information, feel free to browse the various repositories in the organisation.  
+To get involved, please contact [Polly Hudson](https://github.com/orgs/colouring-cities/people/polly64): phudson@turing.ac.uk.
