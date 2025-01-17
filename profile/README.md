@@ -12,7 +12,7 @@ Some of the key sites that are part of the CCRP:
 Information on the CCRP, working with the platform and our academic partners.
 * [CCRP Manual/Wiki](https://github.com/colouring-cities/manual)
 * [CCRP Technical Manual](https://github.com/colouring-cities/ccrp-technical-manual/wiki)
-* [CCRP GitHub access rights for PIs and RSEs](./organisation-structure.md)
+* [CCRP GitHub access rights for PIs and RSEs](https://github.com/colouring-cities/ccrp-technical-manual/wiki/GitHub-Organisational-Structure)
 * [CCRP Academic Partner Info Pages](https://github.com/colouring-cities/ccrp-academic-partner-pages/wiki)
 
 ## More Information
